@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\999\PhotoManager\PhotoMap\PhotoManagers\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="E:\999\PhotoManager\PhotoMap\PhotoManagers\build\intermediates\pre-dexed\release\internal_impl-21.0.0_e6fa20c8b55ec25f9e3d5abea0b2ef744dc81ada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\999\PhotoManager\PhotoMap\PhotoManagers\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="E:\999\PhotoManager\PhotoMap\PhotoManagers\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.0_e78952e698303ca7923006afd863212cf774f68e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\999\PhotoManager\PhotoMap\PhotoManagers\build\intermediates\pre-dexed\release\gson-2.2.4_8631d5e575adbf6eb46989f066d9266c74a8b80f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\999\PhotoManager\PhotoMap\PhotoManagers\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\999\PhotoManager\PhotoMap\PhotoManagers\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-6.5.87_93808e2f4998f7c49fa8bea967e5ed54b652921d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="E:\999\PhotoManager\PhotoMap\PhotoManagers\build\intermediates\pre-dexed\release\support-annotations-21.0.0_942a00eae9e94bbf9436a50907fead2fcde562a3.jar" />
+    </item>
+
+</items>
